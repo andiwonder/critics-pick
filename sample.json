@@ -1,0 +1,1510 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/p24DW3t0q-jzPmbfgDnuRD369LM\"",
+  "pageInfo": {
+    "totalResults": 31,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/EOcpzs0xibsIN0_iIHOZ3pvwFXM\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5GREE0Q0U5OUU2QzREMkZD",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'Please Vote for Me' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott reviews the 2007 documentary about the election of a third-grade class monitor at a school in Wuhan, China.\n\nRelated Link: http://nyti.ms/bZd1bZ\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Please Vote for Me' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6TmA2XSlQfk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6TmA2XSlQfk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6TmA2XSlQfk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6TmA2XSlQfk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6TmA2XSlQfk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6TmA2XSlQfk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6TmA2XSlQfk",
+        "videoPublishedAt": "2010-11-05T15:33:24.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/6C3Jmaqs3sM-i8lNpiK6AD6xd0o\"",
+      "id": "RUxEZDFWT3g3ZjBuSS43RDU5MEE3QTZGRDM5MjVC",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 'The General'",
+        "description":
+          "A. O. Scott looks back at Buster Keaton's 1927 silent comedy \"The General.\"\n\nRelated Link: http://nyti.ms/cu4XTC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Dcxawya67g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Dcxawya67g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Dcxawya67g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-Dcxawya67g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-Dcxawya67g",
+        "videoPublishedAt": "2010-11-17T19:30:39.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/FosYXcDRvVKDLCFBVgZf0qj0NV4\"",
+      "id": "RUxEZDFWT3g3ZjBuSS43NENFRjc0RkJFMjNCMEM1",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'Top Hat' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at the classic Fred Astaire and Ginger Rogers musical.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Top Hat' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fU535-dJjso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fU535-dJjso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fU535-dJjso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fU535-dJjso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fU535-dJjso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fU535-dJjso"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fU535-dJjso",
+        "videoPublishedAt": "2010-12-07T16:57:14.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/YuHl9Z4RE7zTmLEMMO_2GdydVBY\"",
+      "id": "RUxEZDFWT3g3ZjBuSS40QUZFQjIwMTYwQTBENERD",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'The Shop Around the Corner' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back the holiday classic starring James Stewart and Margaret Sullavan.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Shop Around the Corner' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1sn53fKSn-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1sn53fKSn-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1sn53fKSn-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1sn53fKSn-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1sn53fKSn-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1sn53fKSn-0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1sn53fKSn-0",
+        "videoPublishedAt": "2010-12-21T19:19:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/qFAu9JH5L8gVr3peE4dh1CSqnXg\"",
+      "id": "RUxEZDFWT3g3ZjBuSS4wNDgxRUU2MUJGNENGOTcy",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'Waking Life' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott reviews Richard Linklater's unclassifiable 2001 cartoon philosophy seminar.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Waking Life' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X3u6LVHlGTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X3u6LVHlGTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X3u6LVHlGTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X3u6LVHlGTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X3u6LVHlGTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X3u6LVHlGTk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "X3u6LVHlGTk",
+        "videoPublishedAt": "2011-01-04T16:55:20.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/YkgP7EMc_gTQysn2JtuEVyLHbWo\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5DRTBBMDkxNzYwRUFEQzZC",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'The Squid and the Whale' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks at Noah Baumbach's family drama set in Brooklyn in the 1980s.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Squid and the Whale' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wBGyGyQF5o4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wBGyGyQF5o4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wBGyGyQF5o4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wBGyGyQF5o4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wBGyGyQF5o4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wBGyGyQF5o4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wBGyGyQF5o4",
+        "videoPublishedAt": "2011-01-04T20:38:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/Pr7bVvqS3r7X2zUZuY-Yw0Ohgmk\"",
+      "id": "RUxEZDFWT3g3ZjBuSS4yNDFEQ0FGQ0Q3RjE3RDk5",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'East of Eden' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at Elia Kazan's 1955 film adaptation of John Steinbeck's novel.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'East of Eden' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zMd7Li98DAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zMd7Li98DAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zMd7Li98DAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zMd7Li98DAw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zMd7Li98DAw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zMd7Li98DAw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zMd7Li98DAw",
+        "videoPublishedAt": "2011-01-12T17:17:37.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/ouBH6_x_eyCjZFCZde2GX0Frgpo\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5CNjBCOEQzREMzM0VDOTA3",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'Rosemary's Baby' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott looks back at a movie probing themes of paranoia, persecution and motherhood.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Rosemary's Baby' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0r9J60GTrZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0r9J60GTrZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0r9J60GTrZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0r9J60GTrZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0r9J60GTrZ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0r9J60GTrZ0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0r9J60GTrZ0",
+        "videoPublishedAt": "2011-01-18T20:18:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/csY0dgfzxmyaaE4q2qk_oGwwWMQ\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5GNzk2RjIwRUFGNDAzM0FF",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 'Billy Liar'",
+        "description":
+          "A. O. Scott looks back at John Schlesinger's film about an inveterate daydreamer.\n\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K_4NuO5WWGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K_4NuO5WWGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K_4NuO5WWGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K_4NuO5WWGA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "K_4NuO5WWGA",
+        "videoPublishedAt": "2011-01-25T18:19:18.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/AVhgTNaE5AK1EpxhBJTbueuQXlA\"",
+      "id": "RUxEZDFWT3g3ZjBuSS41NUFGQjNFODAwREU2NTEy",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - Critics' Picks: 'Donnie Brasco'",
+        "description":
+          "A. O. Scott discusses themes of loyalty and betrayal in Mike Newell's 1997 film.\n\nWatch more videos on http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zPffBnqtVzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zPffBnqtVzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zPffBnqtVzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zPffBnqtVzM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zPffBnqtVzM",
+        "videoPublishedAt": "2011-02-22T20:43:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/WAR1_TGVMYLg9cwAi45da7-9XDw\"",
+      "id": "RUxEZDFWT3g3ZjBuSS4zRkQ3MTEwRkZGNDdBQzE1",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 'The Red Shoes' | The New York Times",
+        "description":
+          "A. O. Scott looks back at Michael Powell and Emeric Pressburger's film about artistic obsession.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\nCritics' Picks - 'The Red Shoes'\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TtHaVG4CicQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TtHaVG4CicQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TtHaVG4CicQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TtHaVG4CicQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TtHaVG4CicQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TtHaVG4CicQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TtHaVG4CicQ",
+        "videoPublishedAt": "2011-03-01T17:35:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/Fllbu3wLMb33hkXb7P5CgW_DHRg\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5FOEQ3MEM5RTQ1NzNFOUU0",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'Eternal Sunshine of the Spotless Mind' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at Michel Gondry and Charlie Kaufman's film about loss, memory and love.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'Eternal Sunshine of the Spotless Mind' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BBeBpZ-cPLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BBeBpZ-cPLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BBeBpZ-cPLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BBeBpZ-cPLE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BBeBpZ-cPLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BBeBpZ-cPLE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BBeBpZ-cPLE",
+        "videoPublishedAt": "2011-02-15T19:36:57.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/yX-tDxQbNJueiO4QOxOw1XLYyUY\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5BQTAzOUY4NTQ3NkYwOTcz",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'The Warriors' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at Walter Hill's 1979 film about a New York City gang fighting their way home.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Warriors' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vTV08YaKtZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vTV08YaKtZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vTV08YaKtZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vTV08YaKtZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vTV08YaKtZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vTV08YaKtZY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vTV08YaKtZY",
+        "videoPublishedAt": "2011-03-08T20:47:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/nHlt9KhLhsgiWcQDSY7wDbufPdQ\"",
+      "id": "RUxEZDFWT3g3ZjBuSS4xMkE2NjJBOEIzQzQyMDA2",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'Citizen Kane' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott examines the themes of power and isolation in Orson Welles's 1941 film about a newspaper baron.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'Citizen Kane' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wiS-E-u9M6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wiS-E-u9M6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wiS-E-u9M6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wiS-E-u9M6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wiS-E-u9M6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wiS-E-u9M6A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wiS-E-u9M6A",
+        "videoPublishedAt": "2011-03-15T17:59:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/-3TaSXwUo6cXlwk6bwFeA8mh_os\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5FMkQ1ODRCQjBCNTBDOUMz",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'Night of the Hunter' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott looks back at Charles Laughton's film about a murderous Southern minister played by Robert Mitchum.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n        \nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Night of the Hunter' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IfpbVqdkLbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IfpbVqdkLbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IfpbVqdkLbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IfpbVqdkLbo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IfpbVqdkLbo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IfpbVqdkLbo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IfpbVqdkLbo",
+        "videoPublishedAt": "2011-03-21T20:39:14.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/R6BGLypGULV3b004dRBdgbYiyY0\"",
+      "id": "RUxEZDFWT3g3ZjBuSS45NTFGOTI3QTY0RkMxOTND",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Akira' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott discusses the anime classic and the obsession with disaster in Japanese pop culture.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\nCritics' Picks - 'Akira'\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f8NC5ZKx8Yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f8NC5ZKx8Yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f8NC5ZKx8Yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f8NC5ZKx8Yo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f8NC5ZKx8Yo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f8NC5ZKx8Yo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "f8NC5ZKx8Yo",
+        "videoPublishedAt": "2011-03-29T18:52:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/gQ6SNqD3YjRt5KMC4HehwdeGqTc\"",
+      "id": "RUxEZDFWT3g3ZjBuSS41QkVBMDkwNjQ1NDA1QTFB",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'The French Connection' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at William Friedkin's 1971 drama starring Gene Hackman.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'The French Connection' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4dzYV_hXdU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4dzYV_hXdU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4dzYV_hXdU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4dzYV_hXdU4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4dzYV_hXdU4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4dzYV_hXdU4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4dzYV_hXdU4",
+        "videoPublishedAt": "2011-04-05T19:42:58.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/MdcTxCisAT3pk0h-bqdRho21new\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5DNDVERURBNzM0ODMzMEQw",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 'Passion of Joan of Arc'",
+        "description":
+          "A .O. Scott examines the currents of emotion in Carl Theodor Dreyer's 1928 film.\r\n\r\nPlease visit http://nyti.ms/fK9wPp to embed this video. \r\nWatch more videos at http://nytimes.com/video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X7ddz1S8pJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X7ddz1S8pJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X7ddz1S8pJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X7ddz1S8pJ8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "X7ddz1S8pJ8",
+        "videoPublishedAt": "2011-04-14T13:30:22.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/_2J3Pa-zvoai3YVO4QP7BzDS8fs\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5BNjk1Q0ZGMjhFMDVEOTM3",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "South Park' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott discusses the satire of the 1999 animated film \"South Park: Bigger, Longer, Uncut.\"\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\nCritics' Picks - 'South Park'\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4aszFNrosZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4aszFNrosZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4aszFNrosZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4aszFNrosZw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4aszFNrosZw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4aszFNrosZw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4aszFNrosZw",
+        "videoPublishedAt": "2011-04-19T19:15:44.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/9aG5UHuRR73YHSfgHZEUctv7IZA\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5EODIxMUM1RTNBRUQ3OEU5",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'The Last Picture Show' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at Peter Bogdanovich's film about the end of an era in a small Texas town.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Last Picture Show' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b5--T-xchIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b5--T-xchIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b5--T-xchIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b5--T-xchIk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b5--T-xchIk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b5--T-xchIk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "b5--T-xchIk",
+        "videoPublishedAt": "2011-04-26T13:41:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/l7liqGt403tTvOHPeNkIIRsnSFM\"",
+      "id": "RUxEZDFWT3g3ZjBuSS41M0UxQUUxQzU1MzIxOTA4",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 12:08 East of Bucharest",
+        "description":
+          "A. O. Scott discusses Corneliu Porumboiu's film about revolution and memory.\r\n\r\nPlease visit http://nyti.ms/iXVsfH in order to embed this video. Watch more videos at nytimes.com/​video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KpNnmyX5JHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KpNnmyX5JHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KpNnmyX5JHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KpNnmyX5JHQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KpNnmyX5JHQ",
+        "videoPublishedAt": "2011-05-03T19:50:15.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/4gGkxtcfFgHKb4ZHGZT-HuD_23A\"",
+      "id": "RUxEZDFWT3g3ZjBuSS42NDA4NjY1NTQ0MUU2RTZD",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'The Man Who Shot Liberty Valance' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott discusses how truth and justice are sacrificed as order is brought to a lawless land in John Ford's 1962 film.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'The Man Who Shot Liberty Valance' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cbiMfSSbiJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cbiMfSSbiJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cbiMfSSbiJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cbiMfSSbiJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cbiMfSSbiJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cbiMfSSbiJY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cbiMfSSbiJY",
+        "videoPublishedAt": "2011-05-10T18:36:27.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/fmnl54JNu1BJDbwIeHrcu6y1vYo\"",
+      "id": "RUxEZDFWT3g3ZjBuSS4yOUM4RkE2MDQ5QkIwMTAx",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'Umbrellas of Cherbourg' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott looks back at Jacques Demy's 1964 musical with Catherine Deneuve.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Umbrellas of Cherbourg' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4h-w5qM2VMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4h-w5qM2VMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4h-w5qM2VMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4h-w5qM2VMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4h-w5qM2VMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4h-w5qM2VMM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4h-w5qM2VMM",
+        "videoPublishedAt": "2011-05-17T14:52:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/zkgFv5xGk8gWtbJkqJkqJUNq5lw\"",
+      "id": "RUxEZDFWT3g3ZjBuSS42NDVCQTU1MEQ2OUMwOUU2",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Withnail and I' | The New York Times",
+        "description":
+          "A. O. Scott examines the aesthetics of failure in Bruce Robinson's film about two young actors in 1969 London.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Withnail and I'\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vGUuZJj7WwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vGUuZJj7WwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vGUuZJj7WwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vGUuZJj7WwI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vGUuZJj7WwI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vGUuZJj7WwI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vGUuZJj7WwI",
+        "videoPublishedAt": "2011-05-24T17:32:17.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/-G1dspPHxN7o-4f7hNJTbMFTfjo\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5COURCOTUwMzQyMEIyMjMz",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 'Lawrence of Arabia'",
+        "description":
+          "A. O. Scott looks back at David Lean's epic of revolution in the Middle East.\n\nRelated Article: http://nyti.ms/jsCuT1\nPlease visit http://nyti.ms/j7SyzM in order to embed this video.\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TIcU1Bm89mw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TIcU1Bm89mw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TIcU1Bm89mw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TIcU1Bm89mw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TIcU1Bm89mw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TIcU1Bm89mw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TIcU1Bm89mw",
+        "videoPublishedAt": "2011-06-08T19:11:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/Zwr9twMvsTgBJYMSHp1PKOI632Y\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5FNEM2MTVCMkYyMjU2NTE2",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 'Sweet Smell of Success' | The New York Times",
+        "description":
+          "A. O. Scott looks at Alexander Mackendrick's 1957 film starring Burt Lancaster as a powerful gossip columnist and Tony Curtis as an ambitious press agent.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\nCritics' Picks - 'Sweet Smell of Success'\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZk_cgltj2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZk_cgltj2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZk_cgltj2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sZk_cgltj2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sZk_cgltj2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sZk_cgltj2A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sZk_cgltj2A",
+        "videoPublishedAt": "2011-06-28T21:03:25.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/Xhr8zNFVrrU6coa6karPkzoUrUE\"",
+      "id": "RUxEZDFWT3g3ZjBuSS41QkVCQUZDRTQ5QzI0MDlF",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 'This is Spinal Tap'",
+        "description":
+          "A. O. Scott looks back at Rob Reiner's 1984 mockumentary.\n\nRelated Article: http://nyti.ms/ovsehY\nPlease visit http://nyti.ms/qhotd9 in order to embed this video.\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2gZocB0lYws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2gZocB0lYws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2gZocB0lYws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2gZocB0lYws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2gZocB0lYws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2gZocB0lYws"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2gZocB0lYws",
+        "videoPublishedAt": "2011-07-20T14:58:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/__PF3mvpO_crUzLMdJ-ouZoPFo4\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5CRDM5Rjg3MjBENUFEODFC",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 'Back to the Future'",
+        "description":
+          "A. O. Scott explores the existential predicaments that arise in Robert Zemeckis's 1985 time-travel adventure.\n\nPlease visit http://nyti.ms/pnawRT in order to embed this video.\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gk-U09DQe18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gk-U09DQe18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gk-U09DQe18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gk-U09DQe18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gk-U09DQe18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gk-U09DQe18"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Gk-U09DQe18",
+        "videoPublishedAt": "2011-08-15T20:30:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/m0cmtXBnr5_jEGBR0tRmLf0-o5A\"",
+      "id": "RUxEZDFWT3g3ZjBuSS44QzIzRTcwQkNDREQ4Qjc5",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "'MASH' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at Robert Altman's irreverent film about an army hospital near the front lines in the Korean War.\n\nRelated Article: http://nyti.ms/n9PUre\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n        \nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'MASH' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q8NH2_FU3gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q8NH2_FU3gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q8NH2_FU3gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q8NH2_FU3gY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q8NH2_FU3gY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q8NH2_FU3gY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Q8NH2_FU3gY",
+        "videoPublishedAt": "2011-08-17T15:44:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/CkguE4Hqg5KESB3ywXSmtOaxxMU\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5ENDdCNUNCNjhFMUY1NTY4",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 'Invasion of the Body Snatchers'",
+        "description":
+          "A. O. Scott looks back at the 1956 paranoid fantasy.\n\nRelated Article: http://nyti.ms/ohLicf\nPlease visit http://nyti.ms/paF50y in order to embed this video.\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ie1iJpS5qn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ie1iJpS5qn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ie1iJpS5qn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ie1iJpS5qn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ie1iJpS5qn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ie1iJpS5qn4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Ie1iJpS5qn4",
+        "videoPublishedAt": "2011-08-17T16:16:41.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/I8enmIOvs7U1Hdv8EznEkvhE-LA\"",
+      "id": "RUxEZDFWT3g3ZjBuSS5FRUI3OEVEQ0FDMEQ0Mzgw",
+      "snippet": {
+        "publishedAt": "2013-12-11T13:59:44.000Z",
+        "channelId": "UCl68onl0c5Dk0CD_ougj22g",
+        "title": "Critics' Picks - 'Dirty Harry'",
+        "description":
+          "A. O. Scott looks at the themes of justice and vengeance in the 1971 film starring Clint Eastwood.\n\nRelated Article: http://nyti.ms/nEWLPC\nPlease visit http://nyti.ms/r0Y376 in order to embed this video.\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HCKnld3PS70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HCKnld3PS70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HCKnld3PS70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HCKnld3PS70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HCKnld3PS70/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Critics' Picks",
+        "playlistId": "ELDd1VOx7f0nI",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HCKnld3PS70"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HCKnld3PS70",
+        "videoPublishedAt": "2011-08-18T20:06:07.000Z"
+      }
+    }
+  ]
+}

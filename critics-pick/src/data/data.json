@@ -1,0 +1,84 @@
+{
+  "title": "The Big Lebowski",
+  "releaseDate": "1998-03-06",
+  "summary":
+    "Jeffrey The Dude Lebowski, a Los Angeles slacker who only wants to bowl and drink white Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+  "keywords": [
+    "white russian",
+    "dude",
+    "bowling",
+    "vietnam veteran",
+    "carpet",
+    "nihilism",
+    "heart attack",
+    "kidnapping",
+    "lsd",
+    "marijuana",
+    "los angeles",
+    "millionaire",
+    "cult film",
+    "cowboy",
+    "ashes",
+    "impregnation",
+    "bowling team",
+    "unemployed",
+    "bowling ball",
+    "weeds"
+  ],
+  "reviews": [
+    {
+      "score": "100",
+      "publication": "Austin Chronicle",
+      "reviewer": "Marjorie Baumgarten",
+      "review":
+        "Its paved with delightfully irregular and unanticipated bits of business that stimulate the viewer to stay fully alert, while renewing our faith in the sheer joy of watching movies."
+    },
+    {
+      "score": "90",
+      "publication": "Washington Post",
+      "reviewer": "Desson Thomson",
+      "review":
+        "With their inspired, absurdist taste for weird, peculiar Americana-but a sort of neo-Americana that is entirely invented-the Coens have defined and mastered their own bizarre subgenre."
+    },
+    {
+      "score": "80",
+      "publication": "The New York Times",
+      "reviewer": "Elvis Mitchell",
+      "review":
+        "Watching it amble along is enough of a treat, since the Coens populate this story with oddballs and bowling balls of such comic variety."
+    },
+    {
+      "score": "70",
+      "publication": "Chicago Reader",
+      "reviewer": "Jonathan Rosenbaum",
+      "review": "The Big Lebowski is packed with show-offy filmmaking and as a result is pretty entertaining."
+    },
+    {
+      "score": "67",
+      "publication": "Entertainment Weekly",
+      "reviewer": "Owen Gleiberman",
+      "review":
+        "Nearly everything in The Big Lebowski is a put-on, but all that leaves you with is the Coens bizarrely over-deliberate, almost Teutonic form of rib nudging."
+    },
+    {
+      "score": "60",
+      "publication": "Los Angeles Times",
+      "reviewer": "Kenneth Turan",
+      "review":
+        "This film feels completely haphazard, thrown together without much concern for organizing intelligence."
+    },
+    {
+      "score": "30",
+      "publication": "TV Guide Magazine",
+      "reviewer": "Ken Fox",
+      "review": "If its all supposed to be in fun, why does it feel so much like an insult?"
+    }
+  ],
+  "meta": {
+    "genre": ["Comedy", "Crime"],
+    "budget": "$15,000,000",
+    "popularity": "41.02915",
+    "runtime": "1h 57m",
+    "revenue": "$46,189,568"
+  }
+}
