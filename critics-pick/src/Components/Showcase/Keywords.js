@@ -13,13 +13,11 @@ const Keywords = ({ keywords }) => {
     <div className="row">
       <div className="col keywords-col">
         <h3>Keywords</h3>
-        <Divider />
+        <hr />
         {buttons}
       </div>
     </div>
   );
 };
-
-const Divider = () => <hr />;
 
 export default Keywords;
