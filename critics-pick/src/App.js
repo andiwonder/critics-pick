@@ -12,6 +12,16 @@ class App extends Component {
     this.state = {};
   }
 
+  componentDidMount() {
+    fetch('http://www.skasliwal.com/data/data.json')
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        console.log(data);
+      });
+  }
+
   render() {
     return (
       <div className="main-wrapper">

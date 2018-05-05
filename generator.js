@@ -26,6 +26,8 @@ authorize(
   playlistItemsListByPlaylistId
 );
 
+// get name from yt => get id from movieDB => then get info from movieDB => get reviews from metacritic
+
 // relevant fields
 //  "videoId": "6TmA2XSlQfk"
 //  "thumbnails": { standard": { "url": "https://i.ytimg.com/vi/6TmA2XSlQfk/sddefault.jpg",

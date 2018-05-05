@@ -1,0 +1,2481 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/x8vWpw-r-DQsJQPBigFraQENmJ4\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 160,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/C32Ur6BVGHoJoaMdHh9xx4Zpgq8\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:30:08.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'The Graduate' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews the 1967 Michael Nichols' Oscar winner about coming of age in an uncertain world.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Graduate' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1UemG7ofeOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1UemG7ofeOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1UemG7ofeOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1UemG7ofeOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1UemG7ofeOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1UemG7ofeOU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1UemG7ofeOU",
+        "videoPublishedAt": "2009-05-12T15:15:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/IPIUR_reQ7SETOatqfXelSSveLQ\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:30:19.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Blue Velvet' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott reviews David Lynch's unconventional mystery film from 1986.\n\nRelated Link: http://nyti.ms/cJfFw5\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\nCritics' Picks: 'Blue Velvet' - nytimes.com/video\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yaw7m5Of3Cc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yaw7m5Of3Cc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yaw7m5Of3Cc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yaw7m5Of3Cc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yaw7m5Of3Cc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Yaw7m5Of3Cc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Yaw7m5Of3Cc",
+        "videoPublishedAt": "2010-06-28T18:09:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/O1kfS2Zv1pAfLf083hfw-qCMg8s\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:30:29.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Annie Hall' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews Woody Allen's 1977 Oscar-winning ode to love.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\nCritics' Picks - Critics' Picks: 'Annie Hall'  - NYTimes.com/Video\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IAMLXOzHiyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IAMLXOzHiyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IAMLXOzHiyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IAMLXOzHiyM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IAMLXOzHiyM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IAMLXOzHiyM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IAMLXOzHiyM",
+        "videoPublishedAt": "2009-02-10T16:39:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/F6sw7KbV9Hz6ajFIb0Kteqk1l6E\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:30:48.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'The Warriors' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at Walter Hill's 1979 film about a New York City gang fighting their way home.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Warriors' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vTV08YaKtZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vTV08YaKtZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vTV08YaKtZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vTV08YaKtZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vTV08YaKtZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vTV08YaKtZY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vTV08YaKtZY",
+        "videoPublishedAt": "2011-03-08T20:47:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/-X_OsLTGHXmF7paZuyoECzthUNs\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:30:57.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Citizen Kane' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott examines the themes of power and isolation in Orson Welles's 1941 film about a newspaper baron.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'Citizen Kane' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wiS-E-u9M6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wiS-E-u9M6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wiS-E-u9M6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wiS-E-u9M6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wiS-E-u9M6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wiS-E-u9M6A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wiS-E-u9M6A",
+        "videoPublishedAt": "2011-03-15T17:59:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/Pm0TJzsXdowMRKgsRymfsQ-t0Z4\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:31:08.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Night of the Hunter' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott looks back at Charles Laughton's film about a murderous Southern minister played by Robert Mitchum.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n        \nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Night of the Hunter' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IfpbVqdkLbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IfpbVqdkLbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IfpbVqdkLbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IfpbVqdkLbo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IfpbVqdkLbo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IfpbVqdkLbo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IfpbVqdkLbo",
+        "videoPublishedAt": "2011-03-21T20:39:14.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/ioXRQTordafsYDBbyn0UatJjioc\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:31:17.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Akira' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott discusses the anime classic and the obsession with disaster in Japanese pop culture.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\nCritics' Picks - 'Akira'\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f8NC5ZKx8Yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f8NC5ZKx8Yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f8NC5ZKx8Yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f8NC5ZKx8Yo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f8NC5ZKx8Yo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f8NC5ZKx8Yo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "f8NC5ZKx8Yo",
+        "videoPublishedAt": "2011-03-29T18:52:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/3oTBBG9vh0vONGst_dts7hmqlNU\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:31:26.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'The French Connection' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at William Friedkin's 1971 drama starring Gene Hackman.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'The French Connection' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4dzYV_hXdU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4dzYV_hXdU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4dzYV_hXdU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4dzYV_hXdU4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4dzYV_hXdU4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4dzYV_hXdU4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4dzYV_hXdU4",
+        "videoPublishedAt": "2011-04-05T19:42:58.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/zhXOXjTPODhDXvhAK3Prg_RfBPU\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:31:34.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - 'Passion of Joan of Arc'",
+        "description":
+          "A .O. Scott examines the currents of emotion in Carl Theodor Dreyer's 1928 film.\r\n\r\nPlease visit http://nyti.ms/fK9wPp to embed this video. \r\nWatch more videos at http://nytimes.com/video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X7ddz1S8pJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X7ddz1S8pJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X7ddz1S8pJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X7ddz1S8pJ8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "X7ddz1S8pJ8",
+        "videoPublishedAt": "2011-04-14T13:30:22.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/FzrJbyYJEGaBKGiEDzibMBdo9Wo\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:31:41.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "South Park' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott discusses the satire of the 1999 animated film \"South Park: Bigger, Longer, Uncut.\"\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\nCritics' Picks - 'South Park'\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4aszFNrosZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4aszFNrosZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4aszFNrosZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4aszFNrosZw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4aszFNrosZw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4aszFNrosZw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4aszFNrosZw",
+        "videoPublishedAt": "2011-04-19T19:15:44.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/IqdHB6IzJkSvjvYRUAwT1rlBNAU\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:31:48.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'The Last Picture Show' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at Peter Bogdanovich's film about the end of an era in a small Texas town.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Last Picture Show' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b5--T-xchIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b5--T-xchIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b5--T-xchIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b5--T-xchIk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b5--T-xchIk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b5--T-xchIk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "b5--T-xchIk",
+        "videoPublishedAt": "2011-04-26T13:41:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/rztPWH_Kq4YJecdI7hlvHdCEwM0\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:31:57.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - 12:08 East of Bucharest",
+        "description":
+          "A. O. Scott discusses Corneliu Porumboiu's film about revolution and memory.\r\n\r\nPlease visit http://nyti.ms/iXVsfH in order to embed this video. Watch more videos at nytimes.com/​video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KpNnmyX5JHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KpNnmyX5JHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KpNnmyX5JHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KpNnmyX5JHQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KpNnmyX5JHQ",
+        "videoPublishedAt": "2011-05-03T19:50:15.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/bn1xFDHEteITlMyEKehUh_SPDNY\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:33:08.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'The Man Who Shot Liberty Valance' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott discusses how truth and justice are sacrificed as order is brought to a lawless land in John Ford's 1962 film.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'The Man Who Shot Liberty Valance' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cbiMfSSbiJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cbiMfSSbiJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cbiMfSSbiJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cbiMfSSbiJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cbiMfSSbiJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cbiMfSSbiJY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cbiMfSSbiJY",
+        "videoPublishedAt": "2011-05-10T18:36:27.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/fT32LSm9kyHTzZuE4ZPC8vmn7a8\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:33:15.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Umbrellas of Cherbourg' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott looks back at Jacques Demy's 1964 musical with Catherine Deneuve.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Umbrellas of Cherbourg' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4h-w5qM2VMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4h-w5qM2VMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4h-w5qM2VMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4h-w5qM2VMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4h-w5qM2VMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4h-w5qM2VMM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4h-w5qM2VMM",
+        "videoPublishedAt": "2011-05-17T14:52:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/nBGSEJXgwoV5Q2Z0hBaQbnWkw4Q\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:33:22.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Withnail and I' | The New York Times",
+        "description":
+          "A. O. Scott examines the aesthetics of failure in Bruce Robinson's film about two young actors in 1969 London.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Withnail and I'\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vGUuZJj7WwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vGUuZJj7WwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vGUuZJj7WwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vGUuZJj7WwI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vGUuZJj7WwI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vGUuZJj7WwI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vGUuZJj7WwI",
+        "videoPublishedAt": "2011-05-24T17:32:17.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/W8HRASxorI7bhYxwjYIk-lGr85Y\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:33:29.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - 'Lawrence of Arabia'",
+        "description":
+          "A. O. Scott looks back at David Lean's epic of revolution in the Middle East.\n\nRelated Article: http://nyti.ms/jsCuT1\nPlease visit http://nyti.ms/j7SyzM in order to embed this video.\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TIcU1Bm89mw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TIcU1Bm89mw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TIcU1Bm89mw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TIcU1Bm89mw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TIcU1Bm89mw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TIcU1Bm89mw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TIcU1Bm89mw",
+        "videoPublishedAt": "2011-06-08T19:11:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/4qlpgiLmc-w8EGVga2S-rqTrUFk\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:33:37.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - 'Sweet Smell of Success' | The New York Times",
+        "description":
+          "A. O. Scott looks at Alexander Mackendrick's 1957 film starring Burt Lancaster as a powerful gossip columnist and Tony Curtis as an ambitious press agent.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\nCritics' Picks - 'Sweet Smell of Success'\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZk_cgltj2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZk_cgltj2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZk_cgltj2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sZk_cgltj2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sZk_cgltj2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sZk_cgltj2A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sZk_cgltj2A",
+        "videoPublishedAt": "2011-06-28T21:03:25.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/RJoVMEYU5JkDyLDuB0GTAAHZXTg\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:33:44.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - 'This is Spinal Tap'",
+        "description":
+          "A. O. Scott looks back at Rob Reiner's 1984 mockumentary.\n\nRelated Article: http://nyti.ms/ovsehY\nPlease visit http://nyti.ms/qhotd9 in order to embed this video.\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2gZocB0lYws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2gZocB0lYws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2gZocB0lYws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2gZocB0lYws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2gZocB0lYws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2gZocB0lYws"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2gZocB0lYws",
+        "videoPublishedAt": "2011-07-20T14:58:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/fjflsnVMVMrzx4X0p3KbPh2rRUs\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:33:51.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - 'Back to the Future'",
+        "description":
+          "A. O. Scott explores the existential predicaments that arise in Robert Zemeckis's 1985 time-travel adventure.\n\nPlease visit http://nyti.ms/pnawRT in order to embed this video.\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gk-U09DQe18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gk-U09DQe18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gk-U09DQe18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gk-U09DQe18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gk-U09DQe18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gk-U09DQe18"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Gk-U09DQe18",
+        "videoPublishedAt": "2011-08-15T20:30:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/YDN9fp4VXU7mPNRPrHey4w2ks7A\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:34:17.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'MASH' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at Robert Altman's irreverent film about an army hospital near the front lines in the Korean War.\n\nRelated Article: http://nyti.ms/n9PUre\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n        \nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'MASH' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q8NH2_FU3gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q8NH2_FU3gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q8NH2_FU3gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q8NH2_FU3gY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q8NH2_FU3gY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q8NH2_FU3gY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Q8NH2_FU3gY",
+        "videoPublishedAt": "2011-08-17T15:44:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/WhDzCEKY4keW9J71XLW-K3e_jOk\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:34:24.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - 'Invasion of the Body Snatchers'",
+        "description":
+          "A. O. Scott looks back at the 1956 paranoid fantasy.\n\nRelated Article: http://nyti.ms/ohLicf\nPlease visit http://nyti.ms/paF50y in order to embed this video.\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ie1iJpS5qn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ie1iJpS5qn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ie1iJpS5qn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ie1iJpS5qn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ie1iJpS5qn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ie1iJpS5qn4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Ie1iJpS5qn4",
+        "videoPublishedAt": "2011-08-17T16:16:41.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/VibLFOWNC2S9Zcm8jKmWTYeX-t0\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:34:34.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - 'Dirty Harry'",
+        "description":
+          "A. O. Scott looks at the themes of justice and vengeance in the 1971 film starring Clint Eastwood.\n\nRelated Article: http://nyti.ms/nEWLPC\nPlease visit http://nyti.ms/r0Y376 in order to embed this video.\nWatch more videos at http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HCKnld3PS70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HCKnld3PS70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HCKnld3PS70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HCKnld3PS70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HCKnld3PS70/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HCKnld3PS70"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HCKnld3PS70",
+        "videoPublishedAt": "2011-08-18T20:06:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/U2cX_eKALz6xIN7bAvOpag7ulDw\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:35:04.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Slap Shot' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews George Roy Hill's irreverent 1977 film starring Paul Newman as the hardscrabble coach of a minor league hockey team.\n\nRelated Article: http://tinyurl.com/nytimesslapshot\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Slap Shot' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aFVf2eeM3vI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aFVf2eeM3vI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aFVf2eeM3vI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aFVf2eeM3vI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aFVf2eeM3vI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aFVf2eeM3vI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "aFVf2eeM3vI",
+        "videoPublishedAt": "2009-05-19T14:32:18.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/49YJ-a1Il0dlQwwCMtYz7IEDr9w\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:35:11.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Taste of Cherry' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews Abbas Kiarostami's 1997 film, which follows an affluent middle-aged man with suicidal tendencies.\n\nRelated Article: http://tinyurl.com/nytimes54\n\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Taste of Cherry' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mgiwgjIvV4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mgiwgjIvV4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mgiwgjIvV4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mgiwgjIvV4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mgiwgjIvV4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mgiwgjIvV4o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mgiwgjIvV4o",
+        "videoPublishedAt": "2009-05-26T15:42:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/ShDDObqvionUMjc-7Wj_6j_Hbns\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:35:18.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Rushmore' | Critics' Picks | The New York Times",
+        "description":
+          "As the school year winds down, A. O. Scott looks at Wes Anderson's 1998 film about a student getting more in touch with his art and his passions.\n\nRelated Article: http://tinyurl.com/nytimes76\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'Rushmore' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pDhZG5707FU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pDhZG5707FU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pDhZG5707FU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pDhZG5707FU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pDhZG5707FU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pDhZG5707FU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "pDhZG5707FU",
+        "videoPublishedAt": "2009-06-02T20:29:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/gQhDbD8moCLuCBT5qQGdyLk0Gjs\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:35:26.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Dog Day Afternoon' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews Sidney Lumet's 1975 drama \"Dog Day Afternoon.\"\n\nRelated Article: http://tinyurl.com/nytimes123\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'Dog Day Afternoon' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ozzmG0I3xpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ozzmG0I3xpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ozzmG0I3xpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ozzmG0I3xpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ozzmG0I3xpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ozzmG0I3xpk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ozzmG0I3xpk",
+        "videoPublishedAt": "2009-06-16T15:13:46.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/Ntbct2Bz7BgQmuMwIekfMKmD1h8\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:35:33.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Princess Mononoke' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott reviews 'Princess Mononoke,' Hayao Miyazaki's anime masterpiece. \n\nRelated article: http://tinyurl.com/knzr8q\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Princess Mononoke' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BoZpCmcnM_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BoZpCmcnM_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BoZpCmcnM_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BoZpCmcnM_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BoZpCmcnM_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BoZpCmcnM_s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BoZpCmcnM_s",
+        "videoPublishedAt": "2009-06-23T14:33:06.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/oeDm5Sh2JaYeEXFad54LqoDRWPs\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:35:40.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Jaws' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott reviews Steven Spielberg's 'Jaws,' sometimes called the first summer blockbuster. \n\nRelated articles: http://tinyurl.com/nll6fo\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Jaws' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ypiUonRsq7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ypiUonRsq7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ypiUonRsq7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ypiUonRsq7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ypiUonRsq7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ypiUonRsq7g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ypiUonRsq7g",
+        "videoPublishedAt": "2009-06-30T15:19:40.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/9vPioe1Cy-XGCHcSwRyt55kT4Yk\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:35:47.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'2001: A Space Odyssey' | Critics' Picks | The New York Times",
+        "description":
+          "40 years after Armstrong's moonwalk, A.O. Scott reviews Stanley Kubrick's sublime 2001. \n\nRelated videos: http://bit.ly/17PT3b\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'2001: A Space Odyssey' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OwBpFuRe7t8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OwBpFuRe7t8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OwBpFuRe7t8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OwBpFuRe7t8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OwBpFuRe7t8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OwBpFuRe7t8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OwBpFuRe7t8",
+        "videoPublishedAt": "2009-07-14T15:18:39.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/trYA6Ul03q2up23btQg7eFWNYJk\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:35:54.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Lover Come Back' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott reviews the classic Doris Day/Rock Hudson romantic comedy with an eye for the film's subversive subtext. \n\nRelated article: http://bit.ly/1MeEFT\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'Lover Come Back' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P7mTKugGvuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P7mTKugGvuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P7mTKugGvuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P7mTKugGvuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P7mTKugGvuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P7mTKugGvuc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "P7mTKugGvuc",
+        "videoPublishedAt": "2009-08-04T15:27:40.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/Yz7T4eGMadkdORWct9wRPGjXcZ8\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:36:06.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Streetcar Named Desire' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks back at the 1951 classic \"A Streetcar Named Desire\" and the moment when movie acting changed.\n\nRelated article: http://bit.ly/2Si5bp\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \nCritics' Picks - Critics' Picks: 'Streetcar Named Desire' - NYTimes.com/Video\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dFOtE1FF2wQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dFOtE1FF2wQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dFOtE1FF2wQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dFOtE1FF2wQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dFOtE1FF2wQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dFOtE1FF2wQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dFOtE1FF2wQ",
+        "videoPublishedAt": "2009-08-12T18:27:25.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/BUKA1Rbg0XNEASkopfVSA4-Y3FE\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:36:15.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'The Conversation' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott discusses Francis Ford Coppola's 1974 masterpiece and the end of privacy.\n\nRelated article: http://bit.ly/wQUIx\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Conversation' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f92ODOjfukM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f92ODOjfukM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f92ODOjfukM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f92ODOjfukM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f92ODOjfukM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f92ODOjfukM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "f92ODOjfukM",
+        "videoPublishedAt": "2009-08-18T15:43:06.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/wxfvWv47q2Q1BA-rylBPDRnAM7c\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:36:23.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Gattaca' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks at \"Gattaca\" and examines the fate of the individual in a highly regulated social order.\n\nRelated Article: http://bit.ly/mrcCB\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \nCritics' Picks - Critics' Picks: 'Gattaca' - nytimes.com/video\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/43gAIBzXzsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/43gAIBzXzsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/43gAIBzXzsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/43gAIBzXzsw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/43gAIBzXzsw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "43gAIBzXzsw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "43gAIBzXzsw",
+        "videoPublishedAt": "2009-08-25T14:46:44.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/-2CUkmYS5c0MFmMW-27v9npUOGA\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:36:30.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'The Big Lebowski' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott discusses the Coen brothers' 1998 film starring Jeff Bridges, John Goodman and a who's who of 1990s American indie cinema.\n\nRead the story here: http://bit.ly/AzmIl\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Big Lebowski' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aS-8Q7QIk1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aS-8Q7QIk1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aS-8Q7QIk1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aS-8Q7QIk1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aS-8Q7QIk1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aS-8Q7QIk1I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "aS-8Q7QIk1I",
+        "videoPublishedAt": "2009-09-01T16:04:16.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/I8xYqnArp6n2JdFnvbuvCAZQDts\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:36:36.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'All About My Mother' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews Pedro Almodovar's 1999 Academy Award-winning film.\n\nRelated Article: http://bit.ly/4vaeW9\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'All About My Mother' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ybqeaUrRHVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ybqeaUrRHVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ybqeaUrRHVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ybqeaUrRHVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ybqeaUrRHVw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ybqeaUrRHVw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ybqeaUrRHVw",
+        "videoPublishedAt": "2009-09-08T17:26:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/xNNVsf45FkB-1D3VrhbASuqX-78\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:36:43.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Safe' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott reviews Todd Haynes' 1995 film about a California woman's descent into either illness or madness.\n\nRelated Article: http://bit.ly/3k5kJ3\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'Safe' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l0qfkzTrFxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l0qfkzTrFxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l0qfkzTrFxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l0qfkzTrFxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l0qfkzTrFxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l0qfkzTrFxg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "l0qfkzTrFxg",
+        "videoPublishedAt": "2009-09-15T15:20:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/6Q44I5f00NOWYgTMEUmtA9lsWRs\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:36:50.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Jerry Maguire' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott revisits \"Jerry Maguire,\" Cameron Crowe's 1996 film about a shallow sports agent's psychological breakdown.\n\nRelated Videos: http://bit.ly/2TCEGd\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Jerry Maguire' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5tfdvRb6icE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5tfdvRb6icE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5tfdvRb6icE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5tfdvRb6icE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5tfdvRb6icE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5tfdvRb6icE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5tfdvRb6icE",
+        "videoPublishedAt": "2009-09-23T17:45:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/8AH8aqXxeWoWpxGAzDE5EZacn20\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:36:56.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'The King of Comedy' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott Reviews Martin Scorsese's 1983 film about the cult of celebrity.\n\nRelated Article: http://bit.ly/3POaKg\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'The King of Comedy' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wrkOK2lfHAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wrkOK2lfHAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wrkOK2lfHAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wrkOK2lfHAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wrkOK2lfHAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wrkOK2lfHAU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wrkOK2lfHAU",
+        "videoPublishedAt": "2009-09-29T16:30:44.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/vFGzv0LGUcYQ9y89RiioxqNz6-w\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:37:03.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Vertigo' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott revisits Alfred Hitchcock's 1958 vertigo-inducing masterpiece.\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \nCritics' Picks - Critics' Picks: 'Vertigo' - nytimes.com/video\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rHxdPHMsIdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rHxdPHMsIdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rHxdPHMsIdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rHxdPHMsIdk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rHxdPHMsIdk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rHxdPHMsIdk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rHxdPHMsIdk",
+        "videoPublishedAt": "2009-10-21T20:34:53.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/o_fLs768XoNucluiDscui8cF2eY\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:37:11.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - Critics' Picks: 'Three Kings' - nytimes.com/video",
+        "description":
+          "A. O. Scott discusses David O. Russell's war movie \"Three Kings\" and the fundamental question it poses about the nature of America's role in the world.\n\nRelated Article: http://bit.ly/2wTQic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mvly942T40E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mvly942T40E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mvly942T40E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mvly942T40E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mvly942T40E",
+        "videoPublishedAt": "2009-10-21T20:34:25.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/0b5bwuxWciK1g3t6z5llBT-xwx8\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:37:18.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'La Dolce Vita' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews one of his favorite movies of all time, \"La Dolce Vita,\" directed by Federico Fellini.\n\nRelated Article: http://bit.ly/3rrezX\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'La Dolce Vita' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qu2qAHXQHiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qu2qAHXQHiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qu2qAHXQHiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qu2qAHXQHiM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qu2qAHXQHiM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qu2qAHXQHiM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qu2qAHXQHiM",
+        "videoPublishedAt": "2009-10-22T15:51:57.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/kS-5n8qJCtzJdyq2nGUl3Nf1zhM\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:37:27.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Dead of Night' | Critics' Picks | The New York Times",
+        "description":
+          "A.O. Scott reviews \"Dead of Night,\" an obscure compendium horror film from Britain's post-war Ealing Studios.\n\nRelated Article: http://bit.ly/48l15K\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \nCritics' Picks - Critics' Picks: 'Dead of Night' - nytimes.com/video\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0mOIy5U8eaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0mOIy5U8eaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0mOIy5U8eaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0mOIy5U8eaE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0mOIy5U8eaE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0mOIy5U8eaE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0mOIy5U8eaE",
+        "videoPublishedAt": "2009-10-28T18:47:53.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/VyEL2YVx-_k7PUO6d7B-PTkHspM\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:37:35.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'The Verdict' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews Sidney Lumet's film about an alcoholic trial lawyer on a medical malpractice case.\n\nRelated Article: http://bit.ly/40QJ6w\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Verdict' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8kMCsAM_mwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8kMCsAM_mwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8kMCsAM_mwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8kMCsAM_mwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8kMCsAM_mwE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8kMCsAM_mwE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8kMCsAM_mwE",
+        "videoPublishedAt": "2009-11-05T18:31:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/iSnrHRXksyY1Z50FUkE5nAhTgOQ\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:37:43.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'The Red Balloon' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews the classic 1956 short film directed by Albert Lamorisse.\n\nRead the story here: http://bit.ly/37LkqH\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'The Red Balloon' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rYxIPhjDcf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rYxIPhjDcf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rYxIPhjDcf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rYxIPhjDcf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rYxIPhjDcf8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rYxIPhjDcf8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rYxIPhjDcf8",
+        "videoPublishedAt": "2009-11-10T17:06:20.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/BIkCRCeM8NbQ1pIWt2_TAdfmV10\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:37:51.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Blazing Saddles' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews Mel Brooks' 1974 film, which satirizes race relations both in Hollywood westerns and in American culture.\n\nRelated Article: http://bit.ly/4is7fJ\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes/\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'Blazing Saddles' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/69yH3zmuKbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/69yH3zmuKbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/69yH3zmuKbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/69yH3zmuKbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/69yH3zmuKbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "69yH3zmuKbA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "69yH3zmuKbA",
+        "videoPublishedAt": "2009-11-17T16:01:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/ebfvX1dej5SAwdlaGsES5arU-Dc\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:37:57.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Aguirre: Wrath of God' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews Werner Herzog's 1972 film about the brutality and indifference of nature.\n\nRelated Article: http://bit.ly/51a2l2\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \nCritics' Picks - Critics' Picks: 'Aguirre: Wrath of God' - nytimes.com/video\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9RmArOczMQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9RmArOczMQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9RmArOczMQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9RmArOczMQE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9RmArOczMQE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9RmArOczMQE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9RmArOczMQE",
+        "videoPublishedAt": "2009-11-24T17:16:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/xWb6l9jKYtY99M8saCz4DvCtGnk\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:38:04.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'La Jetee' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott looks at Chris Marker's 28-minute rumination on time, love and the apocalypse.\n\nRelated Article: http://bit.ly/8Ip3y7\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\n'La Jetee' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tgC7Eh355E4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tgC7Eh355E4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tgC7Eh355E4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tgC7Eh355E4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tgC7Eh355E4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tgC7Eh355E4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tgC7Eh355E4",
+        "videoPublishedAt": "2009-12-02T19:45:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/Inck2eDmV5Mfxswx_zu03MxV4TE\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:38:11.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "'Duck Soup' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews the 1933 Marx brothers comedy \"Duck Soup.\"\n\nRelated Article: http://bit.ly/6UroXe\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \n'Duck Soup' | Critics' Picks | The New York Times\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zgY7H_XZtOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zgY7H_XZtOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgY7H_XZtOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zgY7H_XZtOQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zgY7H_XZtOQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zgY7H_XZtOQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zgY7H_XZtOQ",
+        "videoPublishedAt": "2009-12-07T21:02:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/wJTpnl64bgoOZRuz7ep_QEUFAkw\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:38:18.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Wings of Desire' | Critics' Picks | The New York Times",
+        "description":
+          "A. O. Scott reviews the Wim Wenders film \"Wings of Desire,\" a meditation on the nature of time and intimacy.\n\nRelated Article: http://bit.ly/6r71m0\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n \n---------------------------------------------------------------\n \nWant more from The New York Times?\n \nTwitter: https://twitter.com/nytvideo\n \nFacebook: https://www.facebook.com/nytimes\n \nGoogle+: https://plus.google.com/+nytimes/\n \nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n \nCritics' Picks - Critics' Picks: 'Wings of Desire' - nytimes.com/video\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wHFEeVKjHGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wHFEeVKjHGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wHFEeVKjHGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wHFEeVKjHGw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wHFEeVKjHGw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wHFEeVKjHGw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wHFEeVKjHGw",
+        "videoPublishedAt": "2009-12-15T17:12:25.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"YuGNqL8VyJA_7QVzAZ4GTyhUvgs/XEOCui3dNBhxaHzlzXNEYSkragw\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2015-05-22T21:38:28.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - Critics' Picks with A.O. Scott: 'Miracle' | The New York Times",
+        "description":
+          "A. O. Scott reviews \"The Miracle of Morgan's Creek,\" Preston Sturges' irreverent World War II-era comedy.\n\nRelated Article: http://bit.ly/4q8n7O\n\nSubscribe to the Times Video newsletter for free and get a handpicked selection of the best videos from The New York Times every week: http://bit.ly/timesvideonewsletter\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\nWatch more videos at: http://nytimes.com/video\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nTwitter: https://twitter.com/nytvideo\n\nInstagram: http://instagram.com/nytvideo\n\nFacebook: https://www.facebook.com/nytimes\n\nGoogle+: https://plus.google.com/+nytimes\n\nWhether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch. On YouTube.\n\nCritics' Picks - Critics' Picks with A.O. Scott: 'Miracle' - nytimes.com/video\nhttp://www.youtube.com/user/TheNewYorkTimes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SyAg5GVxCZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SyAg5GVxCZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SyAg5GVxCZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SyAg5GVxCZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SyAg5GVxCZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SyAg5GVxCZo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SyAg5GVxCZo",
+        "videoPublishedAt": "2009-12-22T22:46:50.000Z"
+      }
+    }
+  ]
+}

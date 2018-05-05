@@ -1,0 +1,426 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/PstQ8r_vMwC9Cjln6YmMGeFif9k\"",
+  "prevPageToken": "CJYBEAE",
+  "pageInfo": {
+    "totalResults": 160,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/Hl3vzCELg8pOulgJ07ricbI87k8\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5FOTE3RTBFMjNFMDNEM0Yz",
+      "snippet": {
+        "publishedAt": "2015-05-22T22:13:28.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks: 'Broadway Danny Rose' - nytimes.com/video",
+        "description":
+          "A. O. Scott looks at Woody Allen's nostalgic meditation on small-time show business in New York City.\n\nRelated Link: http://nyti.ms/9PLLle",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ISh6-7oRfoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ISh6-7oRfoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ISh6-7oRfoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 150,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ISh6-7oRfoc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ISh6-7oRfoc",
+        "videoPublishedAt": "2010-08-17T20:43:35.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/-mXAlxFEyJscEWJkJScKqTY4DQ4\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5BNTRGQTE1QjY2NUE5NTAz",
+      "snippet": {
+        "publishedAt": "2015-05-22T22:13:43.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Movies: Critics' Picks: 'The Ice Storm' - nytimes.com/video",
+        "description":
+          "A. O. Scott revisits Ang Lee's period film about the collapse of moral authority in a wealthy New York City suburb.\n\nWatch more videos at nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bJPHrd3mjeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bJPHrd3mjeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bJPHrd3mjeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bJPHrd3mjeg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 151,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bJPHrd3mjeg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bJPHrd3mjeg",
+        "videoPublishedAt": "2010-12-01T21:53:24.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/z8aFH6CqgDD3gDuScFAzsN3IBtE\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS42NjBGMkRFNDcwMjM2NzYx",
+      "snippet": {
+        "publishedAt": "2015-05-22T22:14:07.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks: 'Melvin and Howard' - nytimes.com/video",
+        "description":
+          "A. O. Scott looks back at \"Melvin and Howard,\" the strange and possibly true story of Howard Hughes and his will.\r\n\r\nRelated Link: http://nyti.ms/aQWs5H",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ZbpNwbCJbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ZbpNwbCJbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ZbpNwbCJbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 152,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6ZbpNwbCJbU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6ZbpNwbCJbU",
+        "videoPublishedAt": "2010-09-21T16:16:16.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/Vq8nEfeWwSdy3H1ohvpJwUIhM6c\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS40NTBGRDE5MDg2Q0NEODI4",
+      "snippet": {
+        "publishedAt": "2015-05-22T22:14:27.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks - NYTimes.com- Movie Minutes: Only Child",
+        "description":
+          "NYTimes.com - A. O. Scott reviews \"My Brother Is An Only Child,\" a film set in the 1960s about two brothers; one is a Communist and the other a Fascist.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FhZx_AeUx7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FhZx_AeUx7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FhZx_AeUx7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 153,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FhZx_AeUx7Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FhZx_AeUx7Q",
+        "videoPublishedAt": "2008-03-31T18:25:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/aXZSKjR8nZ2oiRaUEXIEZlLNjHE\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS40Q0JERDMxNzcwNTk1M0Y0",
+      "snippet": {
+        "publishedAt": "2015-05-22T22:14:42.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critic's Picks: Un Chien Andalou",
+        "description":
+          "A. O. Scott looks back at Luis Bunuel and Salvador Dali's short film.\r\n\r\nRelated Article: http://nyti.ms/irvCjV\r\n\r\nPlease visit http://nyti.ms/kSaPCT in order to embed this video. Watch more videos at http://nytimes.com/video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VNZCtRUy2Gw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VNZCtRUy2Gw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VNZCtRUy2Gw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VNZCtRUy2Gw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VNZCtRUy2Gw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 154,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VNZCtRUy2Gw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VNZCtRUy2Gw",
+        "videoPublishedAt": "2011-06-21T16:48:06.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/WVxjvkG5iqMsqKl56bDHVw6puU8\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS4wMTIyMTBBMTA3RDUxNjlD",
+      "snippet": {
+        "publishedAt": "2015-05-22T22:15:01.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks: 'A Shot in the Dark' - nytimes.com/video",
+        "description":
+          "A. O. Scott looks back at Blake Edwards's 1964 comedy, with Peter Sellers as Inspector Clouseau.\r\n\r\nRelated Link: http://nyti.ms/9H7IKw",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ZKY6SbIRGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ZKY6SbIRGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ZKY6SbIRGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 155,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4ZKY6SbIRGA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4ZKY6SbIRGA",
+        "videoPublishedAt": "2010-09-28T17:42:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/ynT4G8UTneXCOEpn4dmX3_QJCOI\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5DNTU3ODQ4ODAzMjFERTI1",
+      "snippet": {
+        "publishedAt": "2015-05-22T22:15:14.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Movies: Critics' Picks: 'A Perfect World' - nytimes.com/video",
+        "description":
+          "A. O. Scott looks back at Clint Eastwood's 1993 film in which he co-stars with Kevin Costner.\n\nRelated Article: http://nyti.ms/btjAQh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cPC0it1blMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cPC0it1blMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cPC0it1blMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 156,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cPC0it1blMA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cPC0it1blMA",
+        "videoPublishedAt": "2010-10-27T14:51:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/M2aBEAWjLX24e904a3wLc8FW154\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS40QTY5NjQzQkQzMjgwNjhD",
+      "snippet": {
+        "publishedAt": "2015-05-22T22:15:25.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Critics' Picks: Howards End - nytimes.com/video",
+        "description":
+          "A. O. Scott reviews James Ivory and Ismail Merchant's adaptation of E.M. Forster's novel starring Emma Thompson and Anthony Hopkins.\n\nRelated Article: http://nyti.ms/9ZiTAp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7jXgz2hD5vI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7jXgz2hD5vI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7jXgz2hD5vI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 157,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7jXgz2hD5vI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7jXgz2hD5vI",
+        "videoPublishedAt": "2010-10-05T16:02:17.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/n2EpngxZt2bA8PCX0EbPdelzrmg\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS5CODNEOTFERDNCQjU2ODhE",
+      "snippet": {
+        "publishedAt": "2015-05-22T22:15:44.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Movies: Critics' Picks: 'Point Blank' - nytimes.com/video",
+        "description":
+          "A. O. Scott looks back at John Boorman's revenge film about the fate of the individual in the corporate world.\n\nWatch more videos on http://nytimes.com/video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vSbaSWdO3zg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vSbaSWdO3zg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vSbaSWdO3zg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 158,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vSbaSWdO3zg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vSbaSWdO3zg",
+        "videoPublishedAt": "2010-12-06T22:16:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/zD08YTiCXNLRflGSIwOCpF514Vs\"",
+      "id": "UEx0RFFUcG1aVnQ1cTE0V0l0OU1qZ3VfSDdfdUJUU01hcS45NDIzMEVBNjk5NTFGRDZC",
+      "snippet": {
+        "publishedAt": "2015-05-22T22:16:00.000Z",
+        "channelId": "UCbttYamYtqEvUUuLHnpt-iA",
+        "title": "Arts: Critics' Picks: 'Charade' - nytimes.com/video",
+        "description":
+          "A. O. Scott looks back at the 1963 caper film starring Cary Grant, Audrey Hepburn and Walter Matthau.\n\nRelated Links: http://nyti.ms/c6aEzg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FgvAFeeic2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FgvAFeeic2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FgvAFeeic2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "steve cheevers",
+        "playlistId": "PLtDQTpmZVt5q14WIt9Mjgu_H7_uBTSMaq",
+        "position": 159,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FgvAFeeic2E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FgvAFeeic2E",
+        "videoPublishedAt": "2010-09-21T17:31:23.000Z"
+      }
+    }
+  ]
+}
