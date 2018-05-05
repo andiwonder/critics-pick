@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "id": 115,
+      "title": "The graduate",
+      "genres": "Action, Adventure, Sci-fi",
+      "poster": "./images/the_graduate_poster.jpg",
+      "score": "95"
+    },
+    {
+      "id": 213,
+      "title": "Annie Hall",
+      "genres": "Comedy, Adventure, Romance",
+      "poster": "./images/annie_hall_poster.jpg",
+      "score": "92"
+    },
+    {
+      "id": 114,
+      "title": "The general",
+      "genres": "Action, Adventure, Romance",
+      "poster": "./images/the_general_poster.jpg",
+      "score": "88"
+    },
+    {
+      "id": 113,
+      "title": "The warriors",
+      "genres": "Action, Adventure, Fighting",
+      "poster": "./images/the_warriors_poster.jpg",
+      "score": "87"
+    },
+    {
+      "id": 112,
+      "title": "A touch of sin",
+      "genres": "Action, Adventure, Sci-fi",
+      "poster": "./images/touch_of_sin_poster.jpg",
+      "score": "85"
+    },
+    {
+      "id": 122,
+      "title": "Blue velvet",
+      "genres": "Comedy, Adventure, Romance",
+      "poster": "./images/blue_velvet_poster.jpg",
+      "score": "83"
+    },
+    {
+      "id": 123,
+      "title": "Citizen Kane",
+      "genres": "Action, Politics, Biography",
+      "poster": "./images/citizen_kane_poster.jpg",
+      "score": "80"
+    },
+    {
+      "id": 124,
+      "title": "The night of the hunter",
+      "genres": "Thriller, Mystery, Romance",
+      "poster": "./images/the_night_of_the_hunter_poster.jpg",
+      "score": "75"
+    }
+  ]
+}          

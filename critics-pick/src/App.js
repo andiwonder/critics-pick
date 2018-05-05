@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+
 import './App.css';
+import data from './data/data.json';
+
 import Landing from './Components/Landing';
 import Showcase from './Components/Showcase/Showcase';
-import './../node_modules/bootstrap-css-only/css/bootstrap.min.css';
-import data from './data/data.json';
 
 class App extends Component {
   constructor(props) {
