@@ -3,6 +3,7 @@ import data from '../../data/movies.json';
 import { Link } from 'react-router-dom';
 
 const Main = props => {
+  console.log(props);
   const Movies = data.movies.map(movie => {
     const url = `/movie/${movie.id}`;
     return (
